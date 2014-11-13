@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.inkubator</groupId>
-  <artifactId>common-login</artifactId>
+  <artifactId>common-logging</artifactId>
   <version>1.0.0.RELEASE</version>
   <packaging>jar</packaging>
 
-  <name>common-login</name>
+  <name>common-logging</name>
   <url>http://maven.apache.org</url>
 
   <properties>
